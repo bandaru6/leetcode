@@ -19,4 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/bandaru6/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/bandaru6/leetcode/tree/main/0707-design-linked-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/bandaru6/leetcode/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
