@@ -22,16 +22,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0355-design-twitter](https://github.com/bandaru6/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0707-design-linked-list](https://github.com/bandaru6/leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bandaru6/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0355-design-twitter](https://github.com/bandaru6/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0707-design-linked-list](https://github.com/bandaru6/leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bandaru6/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0355-design-twitter](https://github.com/bandaru6/leetcode/tree/main/0355-design-twitter/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bandaru6/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0355-design-twitter](https://github.com/bandaru6/leetcode/tree/main/0355-design-twitter/) | Medium |
 <!---LeetCode Topics End-->
