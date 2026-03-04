@@ -47,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/bandaru6/leetcode/tree/main/0355-design-twitter/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2235-add-two-integers](https://github.com/bandaru6/leetcode/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
