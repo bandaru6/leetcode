@@ -10,8 +10,7 @@ class Solution:
             
             if name in history:
                 history[name].append([time, idx, city])
-                print(history[name])
-                print(int(time) - int(history[name][-2][0]) < 60 and city != history[name][-2][1])
+
                 i = len(history[name]) - 2
                 
                 while i >= 0: 
