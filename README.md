@@ -32,12 +32,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/bandaru6/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0622-design-circular-queue](https://github.com/bandaru6/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0707-design-linked-list](https://github.com/bandaru6/leetcode/tree/main/0707-design-linked-list/) | Medium |
+| [2043-simple-bank-system](https://github.com/bandaru6/leetcode/tree/main/2043-simple-bank-system/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bandaru6/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0355-design-twitter](https://github.com/bandaru6/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [1169-invalid-transactions](https://github.com/bandaru6/leetcode/tree/main/1169-invalid-transactions/) | Medium |
+| [2043-simple-bank-system](https://github.com/bandaru6/leetcode/tree/main/2043-simple-bank-system/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bandaru6/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0622-design-circular-queue](https://github.com/bandaru6/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [1169-invalid-transactions](https://github.com/bandaru6/leetcode/tree/main/1169-invalid-transactions/) | Medium |
+| [2043-simple-bank-system](https://github.com/bandaru6/leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/bandaru6/leetcode/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -83,5 +86,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2043-simple-bank-system](https://github.com/bandaru6/leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/bandaru6/leetcode/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 <!---LeetCode Topics End-->
