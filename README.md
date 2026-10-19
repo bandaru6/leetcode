@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bandaru6/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0622-design-circular-queue](https://github.com/bandaru6/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [1169-invalid-transactions](https://github.com/bandaru6/leetcode/tree/main/1169-invalid-transactions/) | Medium |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/bandaru6/leetcode/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1169-invalid-transactions](https://github.com/bandaru6/leetcode/tree/main/1169-invalid-transactions/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/bandaru6/leetcode/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 <!---LeetCode Topics End-->
