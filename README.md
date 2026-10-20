@@ -39,12 +39,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/bandaru6/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0355-design-twitter](https://github.com/bandaru6/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [1169-invalid-transactions](https://github.com/bandaru6/leetcode/tree/main/1169-invalid-transactions/) | Medium |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/bandaru6/leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [2043-simple-bank-system](https://github.com/bandaru6/leetcode/tree/main/2043-simple-bank-system/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bandaru6/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1169-invalid-transactions](https://github.com/bandaru6/leetcode/tree/main/1169-invalid-transactions/) | Medium |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/bandaru6/leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bandaru6/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0622-design-circular-queue](https://github.com/bandaru6/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [1169-invalid-transactions](https://github.com/bandaru6/leetcode/tree/main/1169-invalid-transactions/) | Medium |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/bandaru6/leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [2043-simple-bank-system](https://github.com/bandaru6/leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/bandaru6/leetcode/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 ## Queue
@@ -83,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1169-invalid-transactions](https://github.com/bandaru6/leetcode/tree/main/1169-invalid-transactions/) | Medium |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/bandaru6/leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
